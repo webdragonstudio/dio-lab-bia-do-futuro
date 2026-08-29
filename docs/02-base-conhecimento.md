@@ -2,25 +2,13 @@
 
 ## Dados Utilizados
 
-Descreva se usou os arquivos da pasta `data`, por exemplo:
-
-| Arquivo | Formato | Utilização no Agente |
+| Arquivo | Formato | Para que serve na IAra |
 |---------|---------|---------------------|
-| `historico_atendimento.csv` | CSV | Contextualizar interações anteriores |
-| `perfil_investidor.json` | JSON | Personalizar recomendações |
-| `produtos_financeiros.json` | JSON | Sugerir produtos adequados ao perfil |
-| `transacoes.csv` | CSV | Analisar padrão de gastos do cliente |
+| `historico_atendimento.csv` | CSV | Contextualizar interações anteriores e dar continuidade nos atendimentos|
+| `perfil_investidor.json` | JSON | Personalizar as explicações, dúvidas e necessidades do cliente |
+| `produtos_financeiros.json` | JSON | conhecer produtos para serem ensinados ao cliente |
+| `transacoes.csv` | CSV | Analisar padrão de gastos do cliente e usar de forma inteligente e didática |
 
-> [!TIP]
-> **Quer um dataset mais robusto?** Você pode utilizar datasets públicos do [Hugging Face](https://huggingface.co/datasets) relacionados a finanças, desde que sejam adequados ao contexto do desafio.
-
----
-
-## Adaptações nos Dados
-
-> Você modificou ou expandiu os dados mockados? Descreva aqui.
-
-[Sua descrição aqui]
 
 ---
 
@@ -34,7 +22,12 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
-[Sua descrição aqui]
+Dados do Cliente:
+- Transações do cliente
+- Perfil do cliente
+- transações do cliente
+- histórico de atendimento
+- Produtos disponíveis
 
 ---
 

@@ -20,7 +20,6 @@ Os JSON/CSV são carregados no início da sessão e incluídos no contexto do pr
 
 
 ### Como os dados são usados no prompt?
-> Os dados vão no system prompt? São consultados dinamicamente?
 
 Dados do Cliente:
 - Transações do cliente
@@ -33,7 +32,7 @@ Dados do Cliente:
 
 ## Exemplo de Contexto Montado
 
-> Mostre um exemplo de como os dados são formatados para o agente.
+> Exemplo de como os dados são formatados para o agente.
 
 ```
 Dados do Cliente:

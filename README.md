@@ -72,16 +72,15 @@ Desenvolva um **protótipo funcional** do seu agente:
 
 ### 5. Avaliação e Métricas
 
-Descreva como você avalia a qualidade do seu agente:
 
 **Métricas Sugeridas:**
-- Precisão/assertividade das respostas
-- Taxa de respostas seguras (sem alucinações)
-- Coerência com o perfil do cliente
+- Precisão/assertividade das respostas = ok
+- Taxa de respostas seguras (sem alucinações) = ok
+- Coerência com o perfil do cliente = ok
 
 📄 **Template:** [`docs/04-metricas.md`](./docs/04-metricas.md)
 
-📄 **Prints:** [`docs/04-metricas.md`](./cenarios)
+📄 **Prints:** [`./cenarios`](./cenarios)
 
 ---
 

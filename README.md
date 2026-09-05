@@ -81,6 +81,8 @@ Descreva como você avalia a qualidade do seu agente:
 
 📄 **Template:** [`docs/04-metricas.md`](./docs/04-metricas.md)
 
+📄 **Prints:** [`docs/04-metricas.md`](./cenarios)
+
 ---
 
 ### 6. Pitch

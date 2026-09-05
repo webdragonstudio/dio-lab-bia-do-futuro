@@ -62,7 +62,7 @@ flowchart TD
 | Componente | Descrição |
 |------------|-----------|
 | Interface | [Streamlit] |
-| LLM | [Ollama (local)] |
+| LLM | [deepseek-chat] |
 | Base de Conhecimento | [ex: JSON/CSV mockado] |
 | Validação | [ex: Checagem de alucinações] |
 

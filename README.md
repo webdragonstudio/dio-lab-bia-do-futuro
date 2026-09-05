@@ -78,7 +78,6 @@ Desenvolva um **protótipo funcional** do seu agente:
 - Taxa de respostas seguras (sem alucinações) = ok
 - Coerência com o perfil do cliente = ok
 
-📄 **Template:** [`docs/04-metricas.md`](./docs/04-metricas.md)
 
 📄 **Prints:** [`./cenarios`](./cenarios)
 
